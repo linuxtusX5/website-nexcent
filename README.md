@@ -1,6 +1,6 @@
 Unfinished
-#✔️ desktop Layout
-#❌ mobile Layout, unfinished 
+# ✔️ desktop Layout
+# ❌ mobile Layout, unfinished 
 link: https://nexcent-02.netlify.app/
 
 <img src='./src/assets/Screenshot.png'/>
