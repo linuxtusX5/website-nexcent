@@ -1,6 +1,8 @@
 Unfinished
-
+#✔️ desktop Layout
+#❌ mobile Layout, unfinished 
 link: https://nexcent-02.netlify.app/
+
 <img src='./src/assets/Screenshot.png'/>
 
 # Getting Started with Create React App
